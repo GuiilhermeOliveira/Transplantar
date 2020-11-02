@@ -10,8 +10,7 @@ using Transplantar.Repositories;
 
 namespace Transplantar.Controllers
 {
-
-
+    //https://transplantar.azurewebsites.net
     [ApiController]
     public class UsuarioController : ControllerBase
     {
